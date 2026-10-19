@@ -1,5 +1,5 @@
 # 📊 FinScope: Multi-Company Financial Analytics & Forecasting
-
+ 🎥 **[Watch the 2-Minute Interactive Dashboard Demo Here](https://drive.google.com/file/d/11LEpUNvnNy3fToy7BR1_Hj9sOqIP40iy/view?usp=sharing)**
 An end-to-end financial analytics platform built in **Power BI, Python, and DAX**. FinScope analyzes 20 public companies across Tech and Consumer sectors, benchmarking their margins and forecasting next-quarter revenue.
 
 ## 🎯 The Business Problem
